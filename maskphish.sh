@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@devilnator 
-jaykali
-/
-maskphish
-32
-38086
-Code
-Issues
-Pull requests
-Discussions
-Actions
-Projects
-Wiki
-Security
-Insights
-maskphish/maskphish.sh
-@jaykali
-jaykali Updated and Working. Plz follow the instractions.
-Latest commit 55efc84 on 19 Dec 2020
- History
- 3 contributors
-@jaykali@CYB3RMX@Hax4us
-Executable File  41 lines (39 sloc)  1.89 KB
- 
 # Bash Script for Hide Phishing URL Created by KP
 
 url_checker() {
@@ -71,17 +39,3 @@ read words
 echo -e "\nGenerating MaskPhish Link...\n"
 final=$mask-$words@$shorter
 echo -e "Here is the MaskPhish URL:\e[32m ${final} \e[0m\n"
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
- Octotree
- Login with GitHub
